@@ -30,6 +30,13 @@ HUD
 
   ![](https://camo.githubusercontent.com/6ed028acbf67707d622344e0ef1bc3b098425b50/687474703a2f2f662e636c2e6c792f6974656d732f32473146315a304d306b306832553356317033392f535650726f67726573734855442e676966)
 
+Pull To Refresh
+----------------
+
+- [CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)Fully customizable pull-to-refresh control inspired by Storehouse iOS app
+
+  ![](https://camo.githubusercontent.com/556662451b6de3d5c56a471ee5931ab8caf2c5e3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f737579752e746573742f434253746f7265486f75736552656672657368436f6e74726f6c312e676966)![](https://camo.githubusercontent.com/a0ff4643665482e588bbf9f951069251604dd118/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f737579752e746573742f434253746f7265486f75736552656672657368436f6e74726f6c322e676966)![](https://camo.githubusercontent.com/4fe16ef3fc999ad4e3f687f9edda592ac5723439/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f737579752e746573742f7371756172652e676966)![](https://cloud.githubusercontent.com/assets/2088605/4948707/3b76afb4-667f-11e4-91a4-9509d17356fa.gif)
+
 Others
 ------
 - [Mutual Mobile Drawer Controller](https://github.com/mutualmobile/MMDrawerController) - A lightweight, easy to use, Side Drawer Navigation Controller.
@@ -85,6 +92,12 @@ Others
 
   ![](https://camo.githubusercontent.com/9986601c5e4306f7935032465911c0f70596e046/687474703a2f2f656e67696e656572696e672e666c6970626f6172642e636f6d2f6173736574732f666c65782f62617369632d766965772d6578706c6f726174696f6e2e676966)
 - [FXBlurView](https://github.com/nicklockwood/FXBlurView) - UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
+
+- [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
+
+  ![](https://github.com/Ramotion/animated-tab-bar/raw/master/Screenshots/tab-bar-icons-iphone-ramotion-animation-interface-design.gif)![](https://github.com/Ramotion/animated-tab-bar/raw/master/Screenshots/RAMAnimatedTabBarDemo.gif)
+- [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView)A simple view for building card like interface like Tinder and Potluck. ZLSwipeableView was originally developed for Murmur.
+  ![](https://github.com/zhxnlai/ZLSwipeableView/raw/master/Previews/swipe.gif)![](https://github.com/zhxnlai/ZLSwipeableView/raw/master/Previews/swipeCancel.gif)![](https://github.com/zhxnlai/ZLSwipeableView/raw/master/Previews/swipeLeft.gif)![](https://github.com/zhxnlai/ZLSwipeableView/raw/master/Previews/swipeLeftRight.gif)
 
 Other
 -----
