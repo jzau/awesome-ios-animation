@@ -49,7 +49,7 @@ Others
 
 - [AMWaveTransition](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews. Each cell is animated to simulate a 'wave effect'.
 
-  ![](https://raw.githubusercontent.com/andreamazz/AMWaveTransition/master/screenshot.gif)
+  ![](https://github.com/andreamazz/AMWaveTransition/blob/master/assets/screenshot.gif?raw=true)
 
 
 - [hamburger-button](https://github.com/robb/hamburger-button) - A hamburger button transition.
