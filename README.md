@@ -99,6 +99,11 @@ Others
 - [ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView)A simple view for building card like interface like Tinder and Potluck. ZLSwipeableView was originally developed for Murmur.
   ![](https://github.com/zhxnlai/ZLSwipeableView/raw/master/Previews/swipe.gif)![](https://github.com/zhxnlai/ZLSwipeableView/raw/master/Previews/swipeCancel.gif)![](https://github.com/zhxnlai/ZLSwipeableView/raw/master/Previews/swipeLeft.gif)![](https://github.com/zhxnlai/ZLSwipeableView/raw/master/Previews/swipeLeftRight.gif)
 
+- [fave-button](https://github.com/xhamr/fave-button) - FaveButton is an iOS cute animated like button written in Swift inspired by Twitter's Heart Animation.
+
+![](https://raw.githubusercontent.com/xhamr/fave-button/master/fave-button1.gif)
+![](https://github.com/xhamr/fave-button/blob/master/fave-button2.gif)
+
 Other
 -----
 - [iOS-Simulator-Photo-Importer](https://github.com/arturgrigor/iOS-Simulator-Photo-Importer) - Photo Importer App for iOS Simulator.
